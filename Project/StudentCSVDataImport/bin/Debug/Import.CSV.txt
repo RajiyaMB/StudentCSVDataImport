@@ -1,0 +1,3 @@
+ExternalStudentID,FirstName,LastName,DOB,SSN,Adddress,City,State,Email,MaritalStatus
+1,Brandon,Lee,05071981,12341234,TestAddress,CA,CA,brandon.lee@email.com,Married
+2,Deep,Kishore,05061980,12341235,TestAddress,CA,CA,deep.kishore@email.com,Married

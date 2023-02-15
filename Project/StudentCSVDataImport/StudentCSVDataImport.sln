@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentCSVDataImport", "StudentCSVDataImport.csproj", "{32EB1B16-CB4C-4D77-B40E-58AAA12F846E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32EB1B16-CB4C-4D77-B40E-58AAA12F846E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32EB1B16-CB4C-4D77-B40E-58AAA12F846E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32EB1B16-CB4C-4D77-B40E-58AAA12F846E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32EB1B16-CB4C-4D77-B40E-58AAA12F846E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EDA015A-840D-478F-AC69-924858F83383}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Project\StudentCSVDataImport\bin\Debug\StudentCSVDataImport.exe.config
+C:\Project\StudentCSVDataImport\bin\Debug\StudentCSVDataImport.exe
+C:\Project\StudentCSVDataImport\bin\Debug\StudentCSVDataImport.pdb
+C:\Project\StudentCSVDataImport\obj\Debug\StudentCSVDataImport.csproj.AssemblyReference.cache
+C:\Project\StudentCSVDataImport\obj\Debug\StudentCSVDataImport.csproj.SuggestedBindingRedirects.cache
+C:\Project\StudentCSVDataImport\obj\Debug\StudentCSVDataImport.csproj.CoreCompileInputs.cache
+C:\Project\StudentCSVDataImport\obj\Debug\StudentCSVDataImport.exe
+C:\Project\StudentCSVDataImport\obj\Debug\StudentCSVDataImport.pdb
